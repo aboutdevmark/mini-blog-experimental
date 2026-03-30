@@ -11,3 +11,6 @@ coverage/
 .cache/
 .vscode/
 *.local
+
+# this will ignore request.http
+*.http
