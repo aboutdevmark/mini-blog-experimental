@@ -12,9 +12,8 @@
     "resolveJsonModule": true,
 
     // Alias Config
-    "baseUrl": ".",
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["./src/*"]
       // Add more for its children (e.g., @routes)
     }
   },
